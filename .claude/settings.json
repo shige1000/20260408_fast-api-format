@@ -1,0 +1,14 @@
+{
+    "permissions": {
+        "deny": [
+            "Read(./.DS_Store)",
+            "Edit(./.DS_Store)",
+            "Write(./.DS_Store)"
+        ]
+    },
+    "allow": [
+        "Read(./.DS_Store)",
+        "Edit(./.DS_Store)",
+        "Write(./.DS_Store)"
+    ]
+}
